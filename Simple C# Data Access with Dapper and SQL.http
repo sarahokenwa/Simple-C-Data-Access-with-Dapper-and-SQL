@@ -1,0 +1,6 @@
+@Simple_C__Data_Access_with_Dapper_and_SQL_HostAddress = http://localhost:5169
+
+GET {{Simple_C__Data_Access_with_Dapper_and_SQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
